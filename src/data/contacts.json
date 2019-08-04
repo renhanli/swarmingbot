@@ -1,0 +1,50 @@
+[
+    {
+        "team":"App Service",
+        "region":"APAC",
+        "tas": ["alias01","alias02"],
+        "ses": ["alias03","alias04","alias05"]
+    },
+    {
+        "team":"App Service",
+        "region":"India",
+        "tas": ["alias01","alias02"],
+        "ses": ["alias03","alias04","alias05"]
+    },
+    {
+        "team":"App Service",
+        "region":"EMEA",
+        "tas": ["alias01","alias02"],
+        "ses": ["alias03","alias04","alias05"]
+    },
+    {
+        "team":"App Service",
+        "region":"US",
+        "tas": ["alias01","alias02"],
+        "ses": ["alias03","alias04","alias05"]
+    },
+    {
+        "team":"Networking",
+        "region":"APAC",
+        "tas": ["alias01","alias02"],
+        "ses": ["alias03","alias04","alias05"]
+    },
+    {
+        "team":"Networking",
+        "region":"India",
+        "tas": ["alias01","alias02"],
+        "ses": ["alias03","alias04","alias05"]
+    },
+    {
+        "team":"Networking",
+        "region":"EMEA",
+        "tas": ["alias01","alias02"],
+        "ses": ["alias03","alias04","alias05"]
+    },
+    {
+        "team":"Networking",
+        "region":"US",
+        "tas": ["alias01","alias02"],
+        "ses": ["alias03","alias04","alias05"]
+    }
+]

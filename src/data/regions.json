@@ -1,0 +1,5 @@
+{
+    "name":"Regions",
+    "Description": "Currently supported Regions",
+    "regions": [ "APAC", "India", "EMEA", "US" ]
+}

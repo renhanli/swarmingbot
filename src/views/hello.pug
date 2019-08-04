@@ -1,0 +1,19 @@
+extends layout.pug
+
+block content
+  div(class="font-semibold font-title") CSS Swarming Heros
+  p Welcome to check CSS Swarming Heros!
+  
+  -var names=kudos
+
+  div
+   table(class="blueTable")
+    thead
+      tr
+        th Name
+        th Kudos
+    tbody
+      each name in names
+        tr
+          td=name.k
+          td=name.v

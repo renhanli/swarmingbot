@@ -1,0 +1,5 @@
+{
+    "name":"Teams",
+    "Description": "Currently added support teams",
+    "teams": [ "App Service", "Networking" ]
+}
